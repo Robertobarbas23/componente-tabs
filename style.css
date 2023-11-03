@@ -1,0 +1,9 @@
+
+.tab-content .tab-pane {
+    display: none;
+    background-color: orange;
+}
+.tab-content .tab-pane:first-child {
+    display: block;
+}
+
